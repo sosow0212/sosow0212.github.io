@@ -1,6 +1,6 @@
 .header {
   height: 400px;
-  background-color: whitesmoke;
+  background-color:azure;
   display: flex;
   flex-direction: column;
   
@@ -19,13 +19,18 @@
 }
 
 .header-text__h1 {
-  font-size: 15px;
+  letter-spacing: 2px;
+  font-size: 25px;
   margin-bottom: 20px;
+  text-shadow: -1px 0 gray, 0 1px black, 1px 0 gray, 0 -1px black;
   
 }
 
 .header-text__p {
-  font-size: 12px;
+  font-size: 15px;
+  letter-spacing: 2px;
+  text-shadow: -1px 0 white, 0 1px whitesmoke, 1px 0 whitesmoke, 0 -1px white;
+
   
 }
 
