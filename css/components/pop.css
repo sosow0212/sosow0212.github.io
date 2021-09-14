@@ -7,6 +7,26 @@
   position: relative;
 }
 
+.pop-bg2 {
+  background-color: #43A483;
+}
+
+.pop-bg3 {
+  background-color: #445484;
+}
+
+.pop-bg4 {
+  background-color: #707070;
+}
+
+.pop-bg5 {
+  background-color: #CC372B;
+}
+
+.pop-bg6 {
+  background-color: #CCB12B;
+}
+
 .pop-background a {
   position: absolute;
   right: 5%;
@@ -71,4 +91,5 @@
   margin: 50px 70px;
   font-size: 20px;
   letter-spacing: 2px;
+  line-height: 30px;
 }
