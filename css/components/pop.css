@@ -1,0 +1,74 @@
+.pop-background {
+  background-color: #0D88A0;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.pop-background a {
+  position: absolute;
+  right: 5%;
+  top: 20px;
+  font-size: 30px;
+  color: white;
+  text-decoration: none;
+}
+
+.pop-background i {
+  margin: 15px;
+}
+
+
+.pop-container {
+  width: 60vh;
+  background-color: white;
+  margin: 5vh 0px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.pop-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 30px;
+}
+
+.pop-text h1 {
+  font-size: 30px;
+  letter-spacing: 5px;
+}
+
+.pop-text p {
+  margin-top: 20px;
+  font-size: 20px;
+  letter-spacing: 5px;
+  opacity: 0.4;
+  border-bottom: 2px solid black;
+  padding-bottom: 15px;
+}
+
+.pop-text-main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+.pop-text-main img {
+  width: 300px;
+  height: 300px;
+  border-radius: 100px;
+}
+
+.pop-text-main p {
+  margin: 50px 70px;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
